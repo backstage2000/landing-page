@@ -2,6 +2,8 @@
 
 - [DEMO LINK](https://backstage2000.github.io/landing-page/)
 
+- [FIGMA LINK](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f)
+
 🛠 Technologies Used
 
 -HTML5 — semantic markup
