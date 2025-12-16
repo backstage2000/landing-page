@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# landing-page Bike
 
 - [DEMO LINK](https://backstage2000.github.io/landing-page/)
 
