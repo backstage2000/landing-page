@@ -33,3 +33,54 @@
 -Improve responsive layout skills
 
 -Create a portfolio-ready frontend project
+
+## Installation and Usage
+
+### Requirements
+
+Before you start, make sure you have the following installed:
+
+* **Node.js** (v16 or higher recommended)
+* **npm** or **yarn**
+
+### Installation
+
+Install project dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### Running the Project
+
+Start the development server:
+
+```bash
+npm start
+# or
+yarn start
+```
+
+After starting, the application will be available at:
+
+```
+http://localhost:3000
+```
+
+### Build for Production
+
+To create a production build:
+
+```bash
+npm run build
+# or
+yarn build
+```
+
+### Notes
+
+* Make sure all environment variables (if any) are properly configured.
+* If you encounter issues during installation, try deleting `node_modules` and reinstalling dependencies.
+
